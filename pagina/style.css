@@ -8,8 +8,58 @@
 
 }
 
-main{
+body{
 
-    background-size: 600px;
+    background-color: black;
+    height: 100px;
 
 }
+
+
+header{
+
+    background-color: black;
+    color: white;
+    height: 320px;
+
+}
+
+header h1{
+
+    margin-top: 50px;
+
+}
+
+
+
+main{
+
+    background-color: white;
+    height: 800px;
+
+}
+
+
+main .explica{
+
+    padding-top: 20px;
+
+}
+
+footer{
+
+    height: 250px;
+    font-size: 15px;
+    background-color: rgb(7, 7, 48);
+    color: whitesmoke;
+    text-align: center;
+
+}
+
+footer ul{
+
+    list-style: none;
+    text-align: justify;
+
+}
+
