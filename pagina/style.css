@@ -10,7 +10,7 @@
 
 body{
 
-    background-color: black;
+    background-color: rgb(7, 7, 48);
     height: 100px;
 
 }
@@ -53,6 +53,12 @@ footer{
     background-color: rgb(7, 7, 48);
     color: whitesmoke;
     text-align: center;
+
+}
+
+footer a{
+
+    color: rgb(126, 153, 228);
 
 }
 
